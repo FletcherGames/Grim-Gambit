@@ -8,7 +8,7 @@
 
 You build your fighters out of deep talent trees, loot, set gear, runes and a forge. Gore reacts to every blow. New Game+ keeps raising the stakes, and the online Top 100 ranks every company by how far it has gone.
 
-> **Status: Beta 0.1.3.** The game is fully playable and still growing. Updates download automatically through the launcher.
+> **Status: Beta 0.1.4.** The game is fully playable and still growing. Updates download automatically through the launcher.
 
 ## ⬇ Download
 
@@ -19,6 +19,8 @@ You build your fighters out of deep talent trees, loot, set gear, runes and a fo
 3. Run **Grim Gambit.exe**. The launcher checks for patches, then press **Play**.
 
 Windows may show a SmartScreen warning because the game isn't code-signed yet. Click **More info → Run anyway**.
+
+**On a phone, tablet or Mac?** [Play in your browser](https://fletchergames.github.io/play/). On a phone, turn it sideways and use **Add to Home Screen** to play fullscreen like an app. Pinch to zoom, use two fingers to pan, and press and hold on an enemy to see your hit chance.
 
 ## Features
 
@@ -42,7 +44,8 @@ Windows may show a SmartScreen warning because the game isn't code-signed yet. C
 - **Gore:** fighters show wear and blood as they take damage. Wet blood splashes the floor and props, and limbs can be severed. Deaths depend on the damage type: fire, frost, poison or holy. Fallen bodies become cover, and necromancers can raise them. Gore can be set to Off, Normal or Excessive.
 - **Graphics options:** windowed, fullscreen or borderless; resolution; frame-rate limit; FPS counter; brightness.
 - **Guided tour:** a step-by-step walkthrough of your first campaign.
-- **Cloud saves:** the game saves after every move, including mid-battle, and backs up online within seconds. Create an account to continue on any PC.
+- **Cloud saves:** the game saves after every move, including mid-battle, and backs up online within seconds. Create an account to continue on any PC, or in the browser on your phone.
+- **Play anywhere:** the Windows app, or right in the browser on phones, tablets and Macs, with touch controls.
 - **Resume Battle:** quit in the middle of a fight and pick it up exactly where you left off.
 - **Online leaderboard:** the Top 100 companies, ranked by highest New Game+ reached.
 
@@ -68,6 +71,13 @@ Windows may show a SmartScreen warning because the game isn't code-signed yet. C
 - **Internet:** optional. It's only used for patches, cloud saves and the leaderboard. Offline play works fine.
 
 ## Patch notes
+
+### Beta 0.1.4: Blood and phones
+- Big performance boost in bloody battles: blood that has finished spreading is painted into a single floor layer instead of hundreds of separate splashes, so the frame rate holds up even on Excessive gore.
+- Fewer stutters when blood first appears, and blood splashing onto props is cheaper to work out.
+- Grim Gambit now plays in the browser on phones and tablets, at fletchergames.github.io/play: pinch to zoom, two fingers to pan, drag to turn the camera, and press and hold on an enemy or tile to see hit chances and cover.
+- Cloud saves work across the desktop game and the browser version: sign in with the same account to continue anywhere.
+- Already playing on Windows? Open the launcher and it downloads this update automatically.
 
 ### Beta 0.1.3: Quiet in the ranks
 - Removed the spoken voice lines and the speech bubbles over fighters. Panic, bonds and morale still work, and still show in the battle log.
