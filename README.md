@@ -8,7 +8,7 @@
 
 You build your fighters out of deep talent trees, loot, set gear, runes and a forge. Gore reacts to every blow. New Game+ keeps raising the stakes, and the online Top 100 ranks every company by how far it has gone.
 
-> **Status: Beta 0.1.6.** The game is fully playable and still growing. Updates download automatically through the launcher.
+> **Status: Beta 0.1.6.1.** The game is fully playable and still growing. Updates download automatically through the launcher.
 
 ## ⬇ Download
 
@@ -71,6 +71,11 @@ Windows may show a SmartScreen warning because the game isn't code-signed yet. C
 - **Internet:** optional. It's only used for patches, cloud saves and the leaderboard. Offline play works fine.
 
 ## Patch notes
+
+### Beta 0.1.6.1: Matching cards
+- The hover cards in battle now match the squad screen: name, class and level, a health bar, stats in a grid, status tags (Burning, Hidden, Overwatch, Hunkered, Panicked...), abilities with cooldowns and gear for your fighters, and a short description plus your chance to hit for enemies.
+- Ability button tooltips use the same dark-and-gold style.
+- Already playing on Windows? Open the launcher and it downloads this update automatically.
 
 ### Beta 0.1.6: Into the light
 - New squad screen: your company waits in a dark, foggy castle hall, and the fighters you pick for the squad step into shafts of light. Click a fighter to bring them into the light or send them back into the dark; big companies stand in a zig-zag so nobody hides behind anyone.
