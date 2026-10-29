@@ -12,11 +12,11 @@ You build your fighters out of deep talent trees, loot, set gear, runes and a fo
 
 ## ⬇ Download
 
-**[Download Grim Gambit Beta 0.1.1 for Windows](https://github.com/FletcherGames/Grim-Gambit/releases/tag/beta-0.1.1)** (about 160 MB)
+**[Download Grim Gambit Beta 0.1.2 for Windows](https://github.com/FletcherGames/Grim-Gambit/releases/tag/beta-0.1.2)** (about 160 MB)
 
-1. Download the `.zip` file from the Beta 0.1.1 release.
+1. Download the `.zip` file from the Beta 0.1.2 release.
 2. Extract the zip anywhere, for example `C:\Games\Grim Gambit`.
-3. Run **Grim Gambit.exe**. The launcher updates you to the latest version (Beta 0.1.2), then press **Play**.
+3. Run **Grim Gambit.exe**. The launcher checks for patches, then press **Play**.
 
 Windows may show a SmartScreen warning because the game isn't code-signed yet. Click **More info → Run anyway**.
 
