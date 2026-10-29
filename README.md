@@ -8,7 +8,7 @@
 
 You build your fighters out of deep talent trees, loot, set gear, runes and a forge. Gore reacts to every blow. New Game+ keeps raising the stakes, and the online Top 100 ranks every company by how far it has gone.
 
-> **Status: Beta 0.1.2.** The game is fully playable and still growing. Updates download automatically through the launcher.
+> **Status: Beta 0.1.3.** The game is fully playable and still growing. Updates download automatically through the launcher.
 
 ## ⬇ Download
 
@@ -24,7 +24,7 @@ Windows may show a SmartScreen warning because the game isn't code-signed yet. C
 
 - **Tactical battles on a grid:** every fighter gets two actions a turn on 22×20 battlefields. You work with half and full cover, high ground, overwatch, Hunker Down, stealth, ambushes and fog of war, and hover any enemy to see your exact chance to hit.
 - **A battlefield that fights back:** cover cracks and collapses, barrels explode, and missed shots slam into the ground.
-- **Morale and bonds:** fighters panic when things go wrong, with voice lines, and those who survive together form bonds that steady their nerves.
+- **Morale and bonds:** fighters panic when things go wrong, and those who survive together form bonds that steady their nerves.
 - **Objectives:** stop rituals, rescue captives, break through to the gate or hold the line.
 - **Ten classes, thirty talent trees:** 30 skills per class, up to rank 20, with Diablo II–style synergies and a capstone mastery at the end of each tree. Bosses award extra skill points.
 - **Loot:**
@@ -68,6 +68,12 @@ Windows may show a SmartScreen warning because the game isn't code-signed yet. C
 - **Internet:** optional. It's only used for patches, cloud saves and the leaderboard. Offline play works fine.
 
 ## Patch notes
+
+### Beta 0.1.3: Quiet in the ranks
+- Removed the spoken voice lines and the speech bubbles over fighters. Panic, bonds and morale still work, and still show in the battle log.
+- Hit chances now show as whole numbers in the battle log and the hover tooltip.
+- Fixed the enemy hover card staying on screen into the next battle.
+- Already playing? Open the launcher and it downloads this update automatically.
 
 ### Beta 0.1.2: Tactics of the Damned
 - Bigger battlefields: every map is now 22 by 20 tiles, with room to flank, fall back and fight over objectives.
