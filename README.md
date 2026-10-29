@@ -74,6 +74,7 @@ Windows may show a SmartScreen warning because the game isn't code-signed yet. C
 
 ### Beta 0.1.5: Smooth menus
 - Fixed big stutters in the menus: the game no longer keeps drawing the last battlefield hidden behind full-screen menus like the title screen, barracks, gear and shops.
+- You can always select your own fighters in battle, even on the enemy's turn or with Auto on, to see their card and ability bar. The bar is greyed out until it's their turn to act.
 - Already playing on Windows? Open the launcher and it downloads this update automatically.
 
 ### Beta 0.1.4: Blood and phones
