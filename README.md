@@ -8,7 +8,7 @@
 
 You build your fighters out of deep talent trees, loot, set gear, runes and a forge. Gore reacts to every blow. New Game+ keeps raising the stakes, and the online Top 100 ranks every company by how far it has gone.
 
-> **Status: Beta 0.1.5.** The game is fully playable and still growing. Updates download automatically through the launcher.
+> **Status: Beta 0.1.6.** The game is fully playable and still growing. Updates download automatically through the launcher.
 
 ## ⬇ Download
 
@@ -71,6 +71,10 @@ Windows may show a SmartScreen warning because the game isn't code-signed yet. C
 - **Internet:** optional. It's only used for patches, cloud saves and the leaderboard. Offline play works fine.
 
 ## Patch notes
+
+### Beta 0.1.6: Tidy corner
+- The build number and cloud save status moved to the top-right corner, so they no longer overlap your gold in the bottom-right.
+- Already playing on Windows? Open the launcher and it downloads this update automatically.
 
 ### Beta 0.1.5: Smooth menus
 - Fixed big stutters in the menus: the game no longer keeps drawing the last battlefield hidden behind full-screen menus like the title screen, barracks, gear and shops.
