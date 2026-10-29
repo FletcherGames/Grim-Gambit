@@ -8,13 +8,13 @@
 
 You build your fighters out of deep talent trees, loot, set gear, runes and a forge. Gore reacts to every blow. New Game+ keeps raising the stakes, and the online Top 100 ranks every company by how far it has gone.
 
-> **Status: Beta 0.1.** The game is fully playable and still growing. Updates download automatically through the launcher.
+> **Status: Beta 0.1.1.** The game is fully playable and still growing. Updates download automatically through the launcher.
 
 ## ⬇ Download
 
-**[Download Grim Gambit Beta 0.1 for Windows](https://github.com/FletcherGames/grim-gambit/releases/latest)** (about 157 MB)
+**[Download Grim Gambit Beta 0.1.1 for Windows](https://github.com/FletcherGames/Grim-Gambit/releases/tag/beta-0.1.1)** (about 160 MB)
 
-1. Download `Grim-Gambit-Beta-0.1-win-portable.zip` from the latest release.
+1. Download the `.zip` file from the Beta 0.1.1 release.
 2. Extract the zip anywhere, for example `C:\Games\Grim Gambit`.
 3. Run **Grim Gambit.exe**. The launcher checks for patches, then press **Play**.
 
@@ -37,6 +37,8 @@ Windows may show a SmartScreen warning because the game isn't code-signed yet. C
   - Rain and thunder over the Hollow Graveyard
   - A mad organist in the Black Chapel, playing along with the score
 - **Gore:** fighters show wear and blood as they take damage. Wet blood splashes the floor and props, and limbs can be severed. Deaths depend on the damage type: fire, frost, poison or holy. Fallen bodies become cover, and necromancers can raise them. Gore can be set to Off, Normal or Excessive.
+- **Graphics options:** windowed, fullscreen or borderless; resolution; frame-rate limit; FPS counter; brightness.
+- **Guided tour:** a step-by-step walkthrough of your first campaign.
 - **Cloud saves:** the game saves after every move, including mid-battle, and backs up online within seconds. Create an account to continue on any PC.
 - **Resume Battle:** quit in the middle of a fight and pick it up exactly where you left off.
 - **Online leaderboard:** the Top 100 companies, ranked by highest New Game+ reached.
@@ -59,6 +61,13 @@ Windows may show a SmartScreen warning because the game isn't code-signed yet. C
 - **Internet:** optional. It's only used for patches, cloud saves and the leaderboard. Offline play works fine.
 
 ## Patch notes
+
+### Beta 0.1.1: Guided tour and graphics options
+- New guided tour for your first campaign: step-by-step tips walk you through the map, your company and your first battle (replay it any time from Options).
+- Attack is now the first button on the ability bar. Pick a target to see who you can hit, and Esc cancels aiming.
+- New Graphics screen in Options: windowed, fullscreen or borderless, window size or render resolution, frame-rate limit, FPS counter and brightness.
+- Cloud saves now remember your account on this PC and ask you to sign back in if your login expires, instead of starting a fresh save.
+- The main menu now appears all at once when the game starts, and Fullscreen moved to Options → Graphics (F11 and Alt+Enter still work).
 
 ### Beta 0.1: The company marches
 - Grim Gambit is now a desktop game with its own launcher.
