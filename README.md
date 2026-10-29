@@ -2,13 +2,13 @@
 
 *Lead the company. Bury the dead. Do not look back.*
 
-![Battle in the Black Chapel](docs/screens/black-chapel.jpg)
+![A vampire lord strikes in the Black Chapel](docs/screens/chapel-vampire-strike.jpg)
 
 **Grim Gambit** is a dark gothic, turn-based tactics game in the style of XCOM. You lead a company of ten classes against undead, demons and vampires across haunted graveyards, burning pits, flooded crypts and ruined cathedrals.
 
 You build your fighters out of deep talent trees, loot, set gear, runes and a forge. Gore reacts to every blow. New Game+ keeps raising the stakes, and the online Top 100 ranks every company by how far it has gone.
 
-> **Status: Beta 0.1.1.** The game is fully playable and still growing. Updates download automatically through the launcher.
+> **Status: Beta 0.1.2.** The game is fully playable and still growing. Updates download automatically through the launcher.
 
 ## ⬇ Download
 
@@ -16,13 +16,16 @@ You build your fighters out of deep talent trees, loot, set gear, runes and a fo
 
 1. Download the `.zip` file from the Beta 0.1.1 release.
 2. Extract the zip anywhere, for example `C:\Games\Grim Gambit`.
-3. Run **Grim Gambit.exe**. The launcher checks for patches, then press **Play**.
+3. Run **Grim Gambit.exe**. The launcher updates you to the latest version (Beta 0.1.2), then press **Play**.
 
 Windows may show a SmartScreen warning because the game isn't code-signed yet. Click **More info → Run anyway**.
 
 ## Features
 
-- **Tactical battles on a grid:** every fighter gets two actions a turn. You work with cover, overwatch, stealth, ambushes and fog of war.
+- **Tactical battles on a grid:** every fighter gets two actions a turn on 22×20 battlefields. You work with half and full cover, high ground, overwatch, Hunker Down, stealth, ambushes and fog of war, and hover any enemy to see your exact chance to hit.
+- **A battlefield that fights back:** cover cracks and collapses, barrels explode, and missed shots slam into the ground.
+- **Morale and bonds:** fighters panic when things go wrong, with voice lines, and those who survive together form bonds that steady their nerves.
+- **Objectives:** stop rituals, rescue captives, break through to the gate or hold the line.
 - **Ten classes, thirty talent trees:** 30 skills per class, up to rank 20, with Diablo II–style synergies and a capstone mastery at the end of each tree. Bosses award extra skill points.
 - **Loot:**
   - Affixes and item levels
@@ -30,7 +33,7 @@ Windows may show a SmartScreen warning because the game isn't code-signed yet. C
   - Trophies and off-hands
   - Runes and sockets, and a forge for crafting and salvage
   - 30 matching sets, one for each talent tree
-- **A campaign with New Game+:** a branching map of battles, elites, treasure and bosses. Each New Game+ makes it harder and the loot richer.
+- **A campaign with New Game+:** a branching map of battles, elites, treasure and three bosses drawn at random every campaign. Each New Game+ makes it harder and the loot richer.
 - **Living maps:**
   - Flowing lava in the Pit of the Damned
   - A murky swamp with hand-grown trees in the Rotting Mire
@@ -47,10 +50,14 @@ Windows may show a SmartScreen warning because the game isn't code-signed yet. C
 
 | | |
 |---|---|
-| ![The Rotting Mire](docs/screens/rotting-mire.jpg) | ![The Pit of the Damned](docs/screens/pit-of-the-damned.jpg) |
-| ![The Hollow Graveyard](docs/screens/hollow-graveyard.jpg) | ![The Cathedral of Ash](docs/screens/cathedral-of-ash.jpg) |
-| ![The sorcerer's library](docs/screens/library.jpg) | ![Main menu](docs/screens/main-menu.jpg) |
-| ![The launcher](docs/screens/launcher.jpg) | ![Cloud saves](docs/screens/cloud-save.jpg) |
+| ![Blood on the chapel floor](docs/screens/chapel-blood-clash.jpg) | ![Late-game knights in the Pit of the Damned](docs/screens/pit-knights.jpg) |
+| ![Standoff in the Hollow Graveyard](docs/screens/graveyard-standoff.jpg) | ![Hit-chance preview and the ability bar](docs/screens/gameplay-graveyard.jpg) |
+| ![Lining up a Headshot against the Devil](docs/screens/gameplay-pit.jpg) | ![High ground in the Black Chapel](docs/screens/gameplay-chapel.jpg) |
+| ![Battle in the Black Chapel](docs/screens/black-chapel.jpg) | ![The Rotting Mire](docs/screens/rotting-mire.jpg) |
+| ![The Pit of the Damned](docs/screens/pit-of-the-damned.jpg) | ![The Cathedral of Ash](docs/screens/cathedral-of-ash.jpg) |
+| ![The Hollow Graveyard](docs/screens/hollow-graveyard.jpg) | ![The sorcerer's library](docs/screens/library.jpg) |
+| ![Main menu](docs/screens/main-menu.jpg) | ![The launcher](docs/screens/launcher.jpg) |
+| ![Cloud saves](docs/screens/cloud-save.jpg) | |
 
 ## System requirements
 
@@ -61,6 +68,22 @@ Windows may show a SmartScreen warning because the game isn't code-signed yet. C
 - **Internet:** optional. It's only used for patches, cloud saves and the leaderboard. Offline play works fine.
 
 ## Patch notes
+
+### Beta 0.1.2: Tactics of the Damned
+- Bigger battlefields: every map is now 22 by 20 tiles, with room to flank, fall back and fight over objectives.
+- Half and full cover: graves, crates and low walls give −20% to be hit; pillars, statues and trees give −40%. Every prop shows its shield during deployment, and you can hold C or press Cover to see them any time.
+- High ground: raised stone platforms give +15% aim against targets below.
+- Hit-chance preview: hover an enemy to see every modifier behind your chance to hit, plus damage and whether the shot is lethal.
+- Blue and gold movement: blue tiles keep an action to attack, gold tiles are a dash that spends both. Hovering a tile shows its cover and warns of enemy overwatch.
+- Hunker Down: brace behind cover for double protection until your next turn.
+- Missed shots fly past the target and slam into the ground or the cover it hides behind.
+- Destructible battlefield: cover cracks and collapses under fire, and volatile barrels explode.
+- Morale and panic, with voice lines: losing a friend or taking a brutal hit can make a fighter flee, cower or fire wildly. Voice lines can be turned off in Options.
+- Bonds: fighters who survive battles together form bonds for better aim side by side, steadier nerves, and vengeance when their partner is hurt.
+- New objectives: stop the ritual, rescue the captive, break through to the gate, or hold the line, each with a turn limit and bonus gold.
+- The three campaign bosses are now drawn at random from all ten every campaign, and are scaled to their place on the road. A campaign in progress re-rolls the bosses you haven't fought yet.
+- New tutorials for your first battle and for returning from it, covering cover shields, high ground, objectives, barrels, Hunker Down, panic and bonds. Replay them any time from Options.
+- Already playing? Open the launcher and it downloads this update automatically.
 
 ### Beta 0.1.1: Guided tour and graphics options
 - New guided tour for your first campaign: step-by-step tips walk you through the map, your company and your first battle (replay it any time from Options).
