@@ -72,7 +72,10 @@ Windows may show a SmartScreen warning because the game isn't code-signed yet. C
 
 ## Patch notes
 
-### Beta 0.1.6: Tidy corner
+### Beta 0.1.6: Into the light
+- New squad screen: your company waits in a dark, foggy castle hall, and the fighters you pick for the squad step into shafts of light. Click a fighter to bring them into the light or send them back into the dark; big companies stand in a zig-zag so nobody hides behind anyone.
+- Hover over a fighter (or press and hold on a phone) to see their level, health, stats, abilities and gear.
+- Marching out with fewer than 6 fighters now asks first, so you don't leave someone behind by accident.
 - The build number and cloud save status moved to the top-right corner, so they no longer overlap your gold in the bottom-right.
 - Already playing on Windows? Open the launcher and it downloads this update automatically.
 
