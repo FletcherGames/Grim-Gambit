@@ -8,7 +8,7 @@
 
 You build your fighters out of deep talent trees, loot, set gear, runes and a forge. Gore reacts to every blow. New Game+ keeps raising the stakes, and the online Top 100 ranks every company by how far it has gone.
 
-> **Status: Beta 0.1.6.1.** The game is fully playable and still growing. Updates download automatically through the launcher.
+> **Status: Beta 0.1.7.** The game is fully playable and still growing. Updates download automatically through the launcher.
 
 ## ⬇ Download
 
@@ -71,6 +71,17 @@ Windows may show a SmartScreen warning because the game isn't code-signed yet. C
 - **Internet:** optional. It's only used for patches, cloud saves and the leaderboard. Offline play works fine.
 
 ## Patch notes
+
+### Beta 0.1.7: Steadier hands
+- Smoother battles: the floor tiles and fog of war are now drawn in a few batches instead of nearly 900 separate pieces, cutting the work per frame by about two thirds. Blood that has settled is merged into the floor less often, so there are no more hitches mid-fight.
+- Fixed audio stutter in the rain: the rain patter is now prepared once instead of being built from hundreds of tiny sounds every second. Music is also scheduled further ahead, so it no longer skips when the game is busy.
+- Fixed the camera slowly zooming in on its own after many battles.
+- Fixed the skill tree and gear screen jumping every time you clicked something.
+- Inventory slots are now independent: items stay where you put them. Drag an item onto another to swap them, or onto an empty slot (or select it, then click an empty slot) to move it. Equipping or selling no longer shuffles the rest of your bag.
+- Smarter Rogues: while hidden they stalk archers, casters, healers and wounded enemies, stay clear of everyone else, and slip back out of reach to re-hide after striking.
+- Smarter Clerics: they now use their mend on Auto, heal whoever is in the most danger first, move to get hurt allies in range, and keep out of melee.
+- Enemies now grow stronger when your squad's levels, skills and gear run well ahead of the campaign: extra health and damage, announced at the start of the battle.
+- Already playing on Windows? Open the launcher and it downloads this update automatically.
 
 ### Beta 0.1.6.1: Matching cards
 - The hover cards in battle now match the squad screen: name, class and level, a health bar, stats in a grid, status tags (Burning, Hidden, Overwatch, Hunkered, Panicked...), abilities with cooldowns and gear for your fighters, and a short description plus your chance to hit for enemies.
