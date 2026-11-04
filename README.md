@@ -74,6 +74,7 @@ Windows may show a SmartScreen warning because the game isn't code-signed yet. C
 
 ### Beta 0.1.7.1: A new soundtrack
 - A brand-new soundtrack: twelve recorded songs replace the old synthesized music. The Grim Gambit on the main menu, The Mustering Hall in the barracks and on the campaign map, and a theme for every battlefield, from The Iron Warden's Gate in the Occult Castle to Seraphiel's Fall in the Pit of the Damned. The Black Chapel's organist plays along in time with The Mad Organist.
+- Songs now start cleanly: no more stray note at the very beginning of each track.
 - Already playing on Windows? Open the launcher and it downloads this update automatically.
 
 ### Beta 0.1.7: Into the halls
