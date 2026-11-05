@@ -8,7 +8,7 @@
 
 You build your fighters out of deep talent trees, loot, set gear, runes and a forge. Gore reacts to every blow. New Game+ keeps raising the stakes, and the online Top 100 ranks every company by how far it has gone.
 
-> **Status: Beta 0.1.8.** The game is fully playable and still growing. Updates download automatically through the launcher.
+> **Status: Beta 0.1.9.** The game is fully playable and still growing. Updates download automatically through the launcher.
 
 ## ⬇ Download
 
@@ -71,6 +71,17 @@ Windows may show a SmartScreen warning because the game isn't code-signed yet. C
 - **Internet:** optional. It's only used for patches, cloud saves and the leaderboard. Offline play works fine.
 
 ## Patch notes
+
+### Beta 0.1.9: Into the Dark
+- True darkness in the fog of war: anything your fighters cannot see sinks into shadow (floor, walls, props and trees), with soft edges that follow your vision as it changes.
+- Firelight: candles, torches, lanterns and braziers glow and flicker, the corner braziers burn brighter, and the busiest clusters of flames on each map cast real warm light on the floor and fighters around them.
+- Fighter shadows no longer double up where a fighter, their weapon and the shadow under their feet overlap.
+- No more stutter when blood flies: droplets only test props they can actually reach, and blood textures and shaders are prepared while you deploy instead of on the first hit.
+- Balance: knights deal 50% less damage and berserkers 30% less (yours and the enemy's), and all of your fighters deal 10% less damage. Enemies are otherwise unchanged.
+- New Game+: recruits arrive one level higher for every NG+ level, with no cap, along with the matching talent points.
+- Class items now roll their +skill bonuses from the class's whole talent tree, so the same item can carry a different skill each time it drops or is crafted.
+- The rain on the Hollow Graveyard is much quieter.
+- Already playing on Windows? Open the launcher and it downloads this update automatically.
 
 ### Beta 0.1.8: The Pit Stirs
 - 24 new road events, many hanging on who is in your company: their traits (a Superstitious fighter won’t enter a haunted crypt, a Stoic one walks in calmly), their bonds, the fallen in your graveyard (one may come back to you as one of the Returned), the forge’s materials and the doom clock. Some start chains that return later in the run, and no event repeats within a run.
