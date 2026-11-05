@@ -8,7 +8,7 @@
 
 You build your fighters out of deep talent trees, loot, set gear, runes and a forge. Gore reacts to every blow. New Game+ keeps raising the stakes, and the online Top 100 ranks every company by how far it has gone.
 
-> **Status: Beta 0.1.7.1.** The game is fully playable and still growing. Updates download automatically through the launcher.
+> **Status: Beta 0.1.8.** The game is fully playable and still growing. Updates download automatically through the launcher.
 
 ## ⬇ Download
 
@@ -71,6 +71,14 @@ Windows may show a SmartScreen warning because the game isn't code-signed yet. C
 - **Internet:** optional. It's only used for patches, cloud saves and the leaderboard. Offline play works fine.
 
 ## Patch notes
+
+### Beta 0.1.8: The Pit Stirs
+- 24 new road events, many hanging on who is in your company: their traits (a Superstitious fighter won’t enter a haunted crypt, a Stoic one walks in calmly), their bonds, the fallen in your graveyard (one may come back to you as one of the Returned), the forge’s materials and the doom clock. Some start chains that return later in the run, and no event repeats within a run.
+- Fighters change with what happens to them. New earned traits: Death-Touched (survived on 2 health or less), Unbreakable (last one standing), Haunted (saw their bonded partner die), Butcher (25 kills), Avenger (killed the foe that slew an ally), Cursed and Blessed (from events), Grave-Walker (came back from the dead), Marked and Nemesis-Slayer.
+- The Pit Stirs: a doom meter on the campaign map rises with every floor, and faster when you rest or take the safe roads. At 25, 50, 75 and 100 the enemy grows stronger for the rest of the run. Boss kills, the Shrine of the Pit and some events push it back.
+- Dark Events: entering each land reveals three enemy schemes, marked on battles along the road. You can only stop one by winning its battle; the other two take hold until the land’s boss falls.
+- A nemesis hunts your company through each run: a hollow knight, a witch-hunter, a sorceress or an executioner. They arrive mid-battle, taunt your fighters by name, learn from how you hurt them, flee when beaten and come back stronger, and take the weapons of the fighters they kill. Strike them down for their bounty, two chests, every weapon they took, and the title Nemesis-Slayer.
+- Already playing on Windows? Open the launcher and it downloads this update automatically.
 
 ### Beta 0.1.7.1: A new soundtrack
 - A brand-new soundtrack: twelve recorded songs replace the old synthesized music. The Grim Gambit on the main menu, The Mustering Hall in the barracks and on the campaign map, and a theme for every battlefield, from The Iron Warden's Gate in the Occult Castle to Seraphiel's Fall in the Pit of the Damned. The Black Chapel's organist plays along in time with The Mad Organist.
